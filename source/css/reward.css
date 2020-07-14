@@ -32,9 +32,9 @@
 	height: 100%;
 }
 
-.blur {
-	-webkit-filter: blur(3px);
-	filter: blur(3px);
+.blureward {
+	-webkit-filter: blureward(3px);
+	filter: blureward(3px);
 }
 
 .tr3 {
